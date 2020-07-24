@@ -1,2 +1,2 @@
-# DHT11
-menyambungkan DHT11 ke Blynk
+# DHT11 dengan Ubidots
+menyambungkan DHT11 ke Ubidots
